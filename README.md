@@ -22,7 +22,7 @@ The following **additional** features are implemented:
 
 * [x] added components to help you decide how much to tip, did not get it working. 
 
-Here is the App, not the amount helper does not function yet:
+Here is the App, note that the amount helper does not function yet:
 
 <img src=http://i.imgur.com/ANjWiEB.gif' title='Tip Calculator' width='' alt='Video Walkthrough' />
 
