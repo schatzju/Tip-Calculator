@@ -21,7 +21,6 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 * [x] added components to help you decide how much to tip, did not get it working. 
-## Tip-Calculator
 
 Here is the App, not the amount helper does not function yet:
 
