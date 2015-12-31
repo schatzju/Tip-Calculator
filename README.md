@@ -1,4 +1,4 @@
-# Pre-work - *Name of App Here*
+# Pre-work - Tip Caculator
 
 **Name of your app** is a tip calculator application for iOS.
 
@@ -20,11 +20,10 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [] List anything else that you can get done to improve the app functionality!
--started creating more features, but didn't have time to implement them fully
+* [x] added components to help you decide how much to tip, did not get it working. 
 ## Tip-Calculator
 
-Here's a walkthrough of implemented user stories:
+Here is the App, not the amount helper does not function yet:
 
 <img src=http://i.imgur.com/ANjWiEB.gif' title='Tip Calculator' width='' alt='Video Walkthrough' />
 
